@@ -26,6 +26,7 @@ jobs:
           cd client
           npm ci
           npm run build
+          cp build/index.html build/404.html
 
       - uses: actions/configure-pages@v5
 

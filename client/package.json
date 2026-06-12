@@ -2,6 +2,7 @@
   "name": "aircleanercalculator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cmarqc.github.io/air-cleaner-calculator",
   "dependencies": {
     "@iconify/react": "^6.0.2",
     "@testing-library/dom": "^10.4.1",
