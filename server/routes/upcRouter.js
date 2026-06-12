@@ -1,5 +1,4 @@
 import express from 'express';
-import fetch from 'node-fetch';
 var router = express.Router();
 
 //test

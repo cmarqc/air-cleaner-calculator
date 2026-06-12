@@ -1,6 +1,5 @@
 import '../styles/styles.css';
 import React, { useEffect } from 'react'
-import Parser from 'html-react-parser';
 import Popup from 'reactjs-popup';
 
 

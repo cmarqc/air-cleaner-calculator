@@ -1,7 +1,6 @@
 import '../styles/styles.css';
 import React from 'react'
 import { Link } from 'react-router-dom';
-import PeopleGraphic from '../images/people_graphic.svg'
 import LivingRoomGraphic from '../images/person_working_air_cleaner 1.png'
 import PACGraphic from '../images/Air Cleaner Illustration.png'
 import Find from '../images/find.png'
